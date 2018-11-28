@@ -1,0 +1,2 @@
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\serial.exe
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\serial.pdb

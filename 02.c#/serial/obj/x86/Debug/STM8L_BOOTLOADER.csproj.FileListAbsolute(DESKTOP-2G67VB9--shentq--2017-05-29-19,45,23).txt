@@ -1,0 +1,12 @@
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\bin\Debug\serial.exe
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\bin\Debug\serial.pdb
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\STM8L_BOOTLOADER.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\serial.main.resources
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\serial.Properties.Resources.resources
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\STM8L_BOOTLOADER.csproj.GenerateResource.Cache
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\serial.exe
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\serial.pdb
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\bin\Debug\serial.exe.manifest
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\bin\Debug\serial.application
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\serial.exe.manifest
+F:\百度云同步盘\C03.Loar\05.上位机\STM8L_BOOT\serial\obj\x86\Debug\serial.application
